@@ -56,7 +56,7 @@ const findInvalidCards = arr => {
    } 
    return resultArr;
 }
-
+console.log(findInvalidCards(batch));
 let testArr = findInvalidCards(batch);
 
 
